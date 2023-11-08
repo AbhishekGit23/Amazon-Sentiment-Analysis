@@ -5,6 +5,9 @@ This project is developed to analyse the reviews of the customers on Amazon and 
 https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
 ## Tools Used
 - Google Colab
+- Python
+- GitHub
+- Kaggle
 - Laptop
 - Internet
 ## Colab File Link
