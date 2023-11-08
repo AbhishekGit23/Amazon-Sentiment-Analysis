@@ -3,6 +3,11 @@ This is the repository in which I have performed Sentiment analysis on Amazon re
 This project is developed to analyse the reviews of the customers on Amazon and divide them into positive, negative so that we can understand that is, if that product is good or not.
 ## Dataset Link:
 https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
+
+## About Dataset
+- This dataset consists of a few million Amazon customer reviews (input text) and star ratings (output labels) for learning how to train fastText for sentiment analysis.
+- The idea here is a dataset is more than a toy - real business data on a reasonable scale - but can be trained in minutes on a modest laptop. link: https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
+
 ## Tools Used
 - Google Colab
 - Python
