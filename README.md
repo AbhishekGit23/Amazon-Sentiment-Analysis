@@ -10,6 +10,12 @@ https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
 ## Colab File Link
 https://colab.research.google.com/drive/1pf8xAVGLflUA1A-IO3qRCP8DF7yQkZV6?usp=sharing
 
+## Tokenizer file link:
+https://drive.google.com/file/d/10M-z03b2nmEYukWdyTweW5o0qPbLfhSc/view?usp=sharing
+
+## Model file link:
+https://drive.google.com/file/d/1WLkod-wBaN0260D9fG8vclY6Mk9DPmFK/view?usp=sharing
+
 ## Visualizations
 ### Graph 1
 The graph below shows us the distribution of the Train Labels.
