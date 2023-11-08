@@ -6,3 +6,5 @@ https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
 - Google Colab
 - Laptop
 - Internet
+## Colab File Link
+https://colab.research.google.com/drive/1pf8xAVGLflUA1A-IO3qRCP8DF7yQkZV6#scrollTo=nj36hEGJIwLP
