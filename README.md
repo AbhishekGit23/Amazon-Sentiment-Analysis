@@ -1,4 +1,4 @@
-![Screenshot 2023-11-09 100340](https://github.com/AbhishekGit23/Amazon-Sentiment-Analysis/assets/123490715/e570e071-9d54-4b6e-a025-e970222d25ea)## Amazon-Sentiment-Analysis
+## Amazon-Sentiment-Analysis
 This is the repository in which I have performed Sentiment analysis on Amazon review dataset.
 This project is developed to analyse the reviews of the customers on Amazon and divide them into positive, negative so that we can understand that is, if that product is good or not. Where 1 represents Positive review ans 0 represents Negative reviews.
 ## Dataset Link:
