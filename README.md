@@ -1,4 +1,4 @@
-## Amazon-Sentiment-Analysis
+![Screenshot 2023-11-09 100340](https://github.com/AbhishekGit23/Amazon-Sentiment-Analysis/assets/123490715/e570e071-9d54-4b6e-a025-e970222d25ea)## Amazon-Sentiment-Analysis
 This is the repository in which I have performed Sentiment analysis on Amazon review dataset.
 This project is developed to analyse the reviews of the customers on Amazon and divide them into positive, negative so that we can understand that is, if that product is good or not. Where 1 represents Positive review ans 0 represents Negative reviews.
 ## Dataset Link:
@@ -37,20 +37,23 @@ The graph below shows us the distribution of the Test Labels.
 ![WordCount](https://github.com/AbhishekGit23/Amazon-Sentiment-Analysis/assets/123490715/527d252c-3004-4a4f-90e5-831168e5796c)
 
 ## Confusion Matrix
-The below matrix shows us the probabilities of True Positive, True Negative, False Positive and False Negative
+The below matrix shows us the probabilities of True Positive, True Negative, False Positive, and False Negative
 ![CM](https://github.com/AbhishekGit23/Amazon-Sentiment-Analysis/assets/123490715/d0a379ee-0a90-492b-aa9b-9bab6d7ad0b3)
 
 ## Model Training
-In the model training part I have tried using LSTM with SpatialDropout1D. I have used the rate as 0.2 and the number of units as 32. For this model I have used Sigmoid Activation Function.
+In the model training part, I have tried using LSTM with SpatialDropout1D. I have used the rate as 0.2 and the number of units as 32. For this model I have used Sigmoid Activation Function.
+![Screenshot 2023-11-09 100340](https://github.com/AbhishekGit23/Amazon-Sentiment-Analysis/assets/123490715/43db8e77-73ac-4235-bf77-1a51708d2b71)
 
 ## Model Compiling 
-- For compiling I have used the loss function as-"Binary_Crossentropy", optimizer as "adam" and metrics is "accuracy".
-- Then for fitting the model I have used 2 epochs and 0.1 as validation split.
-the first batch size of 101250 gave the loss of 0.1781 and accuracy of 0.9309, validation loss as 0.1518 and validation accuracy as 0.9425.
+- For compiling, I have used the loss function as-"Binary_Crossentropy," optimizer as "adam" and metrics is "accuracy".
+- Then, for fitting the model, I have used two epochs and 0.1 as validation split.
+the first batch size of 101250 gave a loss of 0.1781 and an accuracy of 0.9309, validation loss as 0.1518 and validation accuracy as 0.9425.
 The second batch size of 101250 gave the loss of 0.1455 and accuracy of 0.9454, validation loss as 0.1455 and validation accuracy as 0.9452.
+![Screenshot 2023-11-09 101622](https://github.com/AbhishekGit23/Amazon-Sentiment-Analysis/assets/123490715/7221bf41-9ff5-415b-9cf9-4a4d9cce7597)
 
 ## Conclusion 
 So, I conclude that our model had an accuracy of 0.94389 and loss as 0.14847.This means that our model is giving a good results for the sentiments. 
+![Screenshot 2023-11-09 101738](https://github.com/AbhishekGit23/Amazon-Sentiment-Analysis/assets/123490715/9e488a7d-35db-4125-bbb6-030bcbd43769)
 
 So, this is the project that I have prepard for Amazon Sentiment Analysis. Hope you liked it.
 Thank You.
