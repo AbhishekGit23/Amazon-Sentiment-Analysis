@@ -1,4 +1,4 @@
-## Amazon-Sentiment-Analysis
+# Scenario 2: Amazon-Sentiment-Analysis
 This is the repository in which I have performed Sentiment analysis on Amazon review dataset.
 This project is developed to analyse the reviews of the customers on Amazon and divide them into positive, negative so that we can understand that is, if that product is good or not. Where 1 represents Positive review ans 0 represents Negative reviews.
 ## Dataset Link:
